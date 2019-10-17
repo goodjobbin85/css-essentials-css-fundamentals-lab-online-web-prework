@@ -24,3 +24,7 @@ figcaption {
   font-size: 10px;
 }
 
+#featured ~ p {
+  width: 800px;
+}
+
